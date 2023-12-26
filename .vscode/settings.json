@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    "Test4_JavaRestApi/src",
+    "Test3_JavaObserver/src",
+    "Test1_JavaLinkedList/src",
+    "test/src/main/java/com/test4"
+  ]
+}
